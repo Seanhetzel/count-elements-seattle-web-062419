@@ -10,4 +10,3 @@ def count_elements(array)
   end
   new_hash
 end
- 
